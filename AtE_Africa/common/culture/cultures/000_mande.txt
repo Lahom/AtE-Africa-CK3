@@ -138,7 +138,8 @@
 		}
 		
 		male_names = {
-			
+			Amadou
+			Mamadou Moussa
 		}
 		female_names = {
 			
