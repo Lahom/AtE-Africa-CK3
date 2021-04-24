@@ -87,6 +87,7 @@
 		male_names = {
 			Ahmed
 			Moussa
+			S_e_act_kou
 		}
 		female_names = {
 			
