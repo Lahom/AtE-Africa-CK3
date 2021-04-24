@@ -1,0 +1,249 @@
+﻿mande_group = {
+	graphical_cultures = {
+		african_building_gfx
+		central_african_group_coa_gfx
+		mena_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = "mercenary_company_" }
+	}
+	
+	mandinka = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Ceesay"
+			"dynn_Daramy"
+			"dynn_Darboe"
+			"dynn_Jatta"
+			"dynn_Jawara"
+			"dynn_Kamara"
+			"dynn_Kebbeh"
+			"dynn_Mansaray"
+			"dynn_Saccoh"
+			"dynn_Sanneh"
+			"dynn_Touray"
+			"dynn_Trawally"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+	
+	malinke = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Camara"
+			"dynn_Ciss_e_act_"
+			"dynn_Cond_e_act_"
+			"dynn_Diawara"
+			"dynn_Fofana"
+			"dynn_Kaba"
+			"dynn_Kant_e_act_"
+			"dynn_Ke_i_uml_ta"
+			"dynn_Kouyat_e_act_"
+			"dynn_Mansar_e_act_"
+			"dynn_Tour_e_act_"
+			"dynn_Traor_e_act_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+	
+	bambara = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Ciss_e_act_"
+			"dynn_Coulibaly"
+			"dynn_Diabat_e_act_"
+			"dynn_Diakit_e_act_"
+			"dynn_Diarra"
+			"dynn_Diawara"
+			"dynn_Kant_e_act_"
+			"dynn_Ke_i_uml_ta"
+			"dynn_Konat_e_act_"
+			"dynn_Sangar_e_act_"
+			"dynn_Sidib_e_act_"
+			"dynn_Sissoko"
+			"dynn_Tour_e_act_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+	
+	dyula = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Bamba"
+			"dynn_Berth_e_act_"
+			"dynn_Camara"
+			"dynn_Ciss_e_act_"
+			"dynn_Comara"
+			"dynn_Coulibaly"
+			"dynn_Dagnogo"
+			"dynn_Daho"
+			"dynn_Diabagat_e_act_"
+			"dynn_Diabat_e_act_"
+			"dynn_Diaby"
+			"dynn_Dian_e_act_"
+			"dynn_Diarra"
+			"dynn_Diarrassouba"
+			"dynn_Diomand_e_act_"
+			"dynn_Dosso"
+			"dynn_Doumbiya"
+			"dynn_Doumbouya"
+			"dynn_Fadiga"
+			"dynn_Fakoly"
+			"dynn_Fofana"
+			"dynn_Gban_e_act_"
+			"dynn_Kamagat_e_act_"
+			"dynn_Kamat_e_act_"
+			"dynn_Kanat_e_act_"
+			"dynn_Kanout_e_act_"
+			"dynn_Kant_e_act_"
+			"dynn_Karamoko"
+			"dynn_Ke_i_uml_ta"
+			"dynn_Koma"
+			"dynn_Kon_e_act_"
+			"dynn_Konat_e_act_"
+			"dynn_Koroma"
+			"dynn_Kourouma"
+			"dynn_Kouyat_e_act_"
+			"dynn_Meit_e_act_"
+			"dynn_Ouattara"
+			"dynn_Samak_e_act_"
+			"dynn_Sanogo"
+			"dynn_Savan_e_act_"
+			"dynn_Souan_e_act_"
+			"dynn_Souar_e_act_"
+			"dynn_Soumahoro"
+			"dynn_Soumar_e_act_"
+			"dynn_Sylla"
+			"dynn_Timit_e_act_"
+			"dynn_Traor_e_act_"
+		}
+		
+		male_names = {
+			
+		}
+		female_names = {
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+}
