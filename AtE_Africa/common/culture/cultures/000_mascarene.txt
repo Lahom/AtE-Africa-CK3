@@ -1,4 +1,4 @@
-﻿lusoafrican_group = {
+lusoafrican_group = {
 	graphical_cultures = {
 		african_building_gfx
 		central_african_group_coa_gfx
@@ -68,6 +68,7 @@
 			"dynn_Djoussouf"
 			"dynn_Elamine"
 			"dynn_Elaniou"
+			"dynn_Fairouz"
 			"dynn_Halidi"
 			"dynn_Hamadi"
 			"dynn_Hamidou"
@@ -103,6 +104,7 @@
 			"dynn_Maoulida"
 			"dynn_Mari"
 			"dynn_Massoundi"
+			"dynn_Mandjoumi
 			"dynn_Mattoir"
 			"dynn_Mbalia"
 			"dynn_Mbapandza"
@@ -112,6 +114,7 @@
 			"dynn_Miktadi"
 			"dynn_Mlahaili"
 			"dynn_Mohamadi"
+			"dynn_Mouhamadi"
 			"dynn_Mohamed"
 			"dynn_Moindjie"
 			"dynn_Mouhtare"
@@ -123,11 +126,13 @@
 			"dynn_Mroudja_e_act_"
 			"dynn_Msaidi_e_act_"
 			"dynn_Mz_e_act_"
+			"dynn_Msahazi"
 			"dynn_Nabouhane"
 			"dynn_Nourdine"
 			"dynn_Oili"
 			"dynn_Omar"
 			"dynn_Ousseni"
+			"dynn_ousseini
 			"dynn_Rachidi"
 			"dynn_Ridjali"
 			"dynn_Sa_i_uml_d"
@@ -160,7 +165,7 @@
 			Fa_i_uml_z Fadul Fahad Faharidine Fahmi Faouz Fouad Foundi
 			Hadhari Hamada Hamissi Haribou Hassane Houmadi Housni
 			Ibrahim Ikililou Intisware Isma_e_uml_l Issa Iyad
-			Kamardine Kassim Kemal
+			Kamardine Kassim Kadder Kemal
 			Mahamoud Mansour Maouana Mdzadze Mhadjou Mirhane Mohamed Mouigni Moustadroine Moustapha Moussa Mouzawar Mtara
 			Nadjim Nakibou Nakim Nasser Nasrane Nazarali Nourdine
 			Omar
@@ -173,13 +178,14 @@
 			Alimah Amina
 			Chamsia
 			Djoueria Djoumbe
-			Fa_i_uml_a Fatima Fatoumia
+			Fa_i_uml_a Fatma Fatima Fatoumia
 			Hadidja Hadjira Halima
 			Lubaina
-			Mariama Moin_e_act_cha
+			Mariama Maïssa Moin_e_act_cha
+			Nadjati Nafissa 
 			Ra_i_uml_ssa
 			Salhate Salima Sandjema Sittou
-			Thouiebat Touhfat
+			Thouiebat Touhfat Yasmin 
 			Za_i_uml_naba Zaharouna
 		}
 		
