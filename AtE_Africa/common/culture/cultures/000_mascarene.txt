@@ -1,0 +1,205 @@
+﻿lusoafrican_group = {
+	graphical_cultures = {
+		african_building_gfx
+		central_african_group_coa_gfx
+		mena_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = "mercenary_company_" }
+	}
+	
+	comorian = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Abd_e_act_r_e_act_mane"
+			"dynn_Abdallah"
+			"dynn_Abdillah"
+			"dynn_Abdou"
+			"dynn_Abdouloihabi"
+			"dynn_Aboudou"
+			"dynn_Ahamada"
+			"dynn_Ahmed"
+			"dynn_Ahmedomar"
+			"dynn_Alhadhur"
+			"dynn_Ali"
+			"dynn_Allaoui"
+			"dynn_Andhumdine"
+			"dynn_Andjilani"
+			"dynn_Assani"
+			"dynn_Assoumani"
+			"dynn_Atoiyi"
+			"dynn_Attoumane"
+			"dynn_Ayouba"
+			"dynn_Bacar"
+			"dynn_Bachirou"
+			"dynn_Bamoudou"
+			"dynn_Boina"
+			"dynn_Boinaheri"
+			"dynn_Boinali"
+			"dynn_Boura"
+			"dynn_Bourhane"
+			"dynn_Chadhouli"
+			"dynn_Chaharane"
+			"dynn_Chamssidine"
+			"dynn_Chanfi"
+			"dynn_Chebani"
+			"dynn_Colo"
+			"dynn_Combo"
+			"dynn_Dahalani"
+			"dynn_Daniel"
+			"dynn_Darou_e_grv_che"
+			"dynn_Daoudou"
+			"dynn_Darcaoui"
+			"dynn_Djabir"
+			"dynn_Djae"
+			"dynn_Djanfari"
+			"dynn_Djohar"
+			"dynn_Djoudja"
+			"dynn_Djoumoi"
+			"dynn_Djoussouf"
+			"dynn_Elamine"
+			"dynn_Elaniou"
+			"dynn_Halidi"
+			"dynn_Hamadi"
+			"dynn_Hamidou"
+			"dynn_Haribou"
+			"dynn_Harouna"
+			"dynn_Hassani"
+			"dynn_Hatubou"
+			"dynn_Houmadi"
+			"dynn_Ibouroi"
+			"dynn_Ibrahim"
+			"dynn_Imamo"
+			"dynn_Issa"
+			"dynn_Issimaila"
+			"dynn_Issouf"
+			"dynn_Kaambi"
+			"dynn_Kamardine"
+			"dynn_Kassim"
+			"dynn_Keldi"
+			"dynn_Loutoufi"
+			"dynn_M_pst_Ba_e_act_"
+			"dynn_M_pst_Changama"
+			"dynn_M_pst_D_e_act_r_e_act_"
+			"dynn_M_pst_Dahoma"
+			"dynn_M_pst_Kadara"
+			"dynn_M_pst_Kouboi"
+			"dynn_M_pst_Madi"
+			"dynn_Maandhui"
+			"dynn_Ma_e_act_cha"
+			"dynn_Mad_i_hat_hali"
+			"dynn_Madi"
+			"dynn_Mahamoud"
+			"dynn_Mansoibou"
+			"dynn_Maoulida"
+			"dynn_Mari"
+			"dynn_Massoundi"
+			"dynn_Mattoir"
+			"dynn_Mbalia"
+			"dynn_Mbapandza"
+			"dynn_Mdallah"
+			"dynn_Mhoko"
+			"dynn_Midiladji"
+			"dynn_Miktadi"
+			"dynn_Mlahaili"
+			"dynn_Mohamadi"
+			"dynn_Mohamed"
+			"dynn_Moindjie"
+			"dynn_Mouhtare"
+			"dynn_Mouigni"
+			"dynn_Mourchid"
+			"dynn_Moussa"
+			"dynn_Mramboini"
+			"dynn_Mroivili"
+			"dynn_Mroudja_e_act_"
+			"dynn_Msaidi_e_act_"
+			"dynn_Mz_e_act_"
+			"dynn_Nabouhane"
+			"dynn_Nourdine"
+			"dynn_Oili"
+			"dynn_Omar"
+			"dynn_Ousseni"
+			"dynn_Rachidi"
+			"dynn_Ridjali"
+			"dynn_Sa_i_uml_d"
+			"dynn_Saandi"
+			"dynn_Saindou"
+			"dynn_Salim"
+			"dynn_Siaka"
+			"dynn_Soilihi"
+			"dynn_Souef"
+			"dynn_Souffou"
+			"dynn_Soul_e_act_"
+			"dynn_Soulaimana"
+			"dynn_Soumaila"
+			"dynn_Toihiri"
+			"dynn_Toybou"
+			"dynn_Yahaya"
+			"dynn_Ybnou"
+			"dynn_Youssouf"
+			"dynn_Za_i_uml_dou"
+			"dynn_Zahary"
+			"dynn_Zakouani"
+			"dynn_Zamir"
+		}
+		
+		male_names = {
+			Abbas Abd_e_act_r_e_act_mane Abdallah Abdou Abdoulaide Abdoulatifou Abdourahamane Aboubacar Adjma_e_uml_l Ahamada Ahmed Alaoui Ali Ancoub Andriantsoly Azali
+			Badroudine Benhamadi Benjaloud Benousseni Bianrifi Boinali Bourouhane
+			Caabi Camal Chaehoi Cheikh Chihaboudine Combo
+			Daniel Daoud Dhoifir Dhoihirou Djaffar Djamal Djamalidine
+			Fa_i_uml_z Fadul Fahad Faharidine Fahmi Faouz Fouad Foundi
+			Hadhari Hamada Hamissi Haribou Hassane Houmadi Housni
+			Ibrahim Ikililou Intisware Isma_e_uml_l Issa Iyad
+			Kamardine Kassim Kemal
+			Mahamoud Mansour Maouana Mdzadze Mhadjou Mirhane Mohamed Mouigni Moustadroine Moustapha Moussa Mouzawar Mtara
+			Nadjim Nakibou Nakim Nasser Nasrane Nazarali Nourdine
+			Omar
+			Ra_i_uml_dou Rafidine Roubani
+			Sa_i_uml_d Saifoudine Saindou Salim Samir Soibahadine Soulaimane Sounhadj
+			Tadjidine Tambavou Toifilou
+			Yacine Younoussa Youssouf
+		}
+		female_names = {
+			Alimah Amina
+			Chamsia
+			Djoueria Djoumbe
+			Fa_i_uml_a Fatima Fatoumia
+			Hadidja Hadjira Halima
+			Lubaina
+			Mariama Moin_e_act_cha
+			Ra_i_uml_ssa
+			Salhate Salima Sandjema Sittou
+			Thouiebat Touhfat
+			Za_i_uml_naba Zaharouna
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+}
