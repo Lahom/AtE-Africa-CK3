@@ -185,7 +185,7 @@ lusoafrican_group = {
 			Nadjati Nafissa 
 			Ra_i_uml_ssa
 			Salhate Salima Sandjema Sittou
-			Thouiebat Touhfat Yasmin 
+			Thouiebat Touhfat Yasmine 
 			Za_i_uml_naba Zaharouna
 		}
 		
