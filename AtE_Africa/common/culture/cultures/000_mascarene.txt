@@ -181,7 +181,7 @@ lusoafrican_group = {
 			Fa_i_uml_a Fatma Fatima Fatoumia
 			Hadidja Hadjira Halima
 			Lubaina
-			Mariama Maïssa Moin_e_act_cha
+			Mariama Ma_i_ssa Moin_e_act_cha
 			Nadjati Nafissa 
 			Ra_i_uml_ssa
 			Salhate Salima Sandjema Sittou
@@ -206,6 +206,512 @@ lusoafrican_group = {
 		
 		ethnicities = {
 			10 = african
+		}
+	}
+}
+
+lusoafrican_group = {
+	graphical_cultures = { #to be changed
+		african_building_gfx
+		central_african_group_coa_gfx
+		mena_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = "mercenary_company_" }
+	}
+	
+	Kréol = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Ah_Ching"
+			"dynn_Ah_Kiam"
+			"dynn_Ah_Tsing"
+			"dynn_Amiel"
+			"dynn_Amourgom"
+			"dynn_Anamoutou"
+			"dynn_Andrieu"
+			"dynn_Anjali"
+			"dynn_Armalingum"
+			"dynn_Arnassalom"
+			"dynn_Assoumani"
+			"dynn_Atchapa"
+			"dynn_Azizi"
+			"dynn_Baret"
+			"dynn_Basse"
+			"dynn_Bello"
+			"dynn_Blondin"
+			"dynn_Boyer"
+			"dynn_Bret"
+			"dynn_Breuil"
+			"dynn_Bénard"
+			"dynn_Calpétard"
+			"dynn_Caroupapoullé"
+			"dynn_Carpaye"
+			"dynn_Catherine"
+			"dynn_Chapelain"
+			"dynn_Childéric"
+			"dynn_Clain"
+			"dynn_Colin
+			"dynn_Constant"
+			"dynn_Dalleau"
+			"dynn_Darmalingom"
+			"dynn_Dermenonville"
+			"dynn_Dijoux"
+			"dynn_Dubreuil"
+			"dynn_Dugain"
+			"dynn_Ezra"
+			"dynn_Ferrère"
+			"dynn_Filier"
+			"dynn_Folio"
+			"dynn_Fontaine"
+			"dynn_Galais"
+			"dynn_Gastrin"
+			"dynn_Gigan"
+			"dynn_Gonthier"
+			"dynn_Grondin"
+			"dynn_Guichard"
+			"dynn_Hafiz"
+			"dynn_Haroune"
+			"dynn_Hoareau"
+			"dynn_Huet"
+			"dynn_Idmont"
+			"dynn_Jeeawon"
+			"dynn_Jetter"
+			"dynn_Jirahoua"
+			"dynn_Lallemand"
+			"dynn_Langevillier"
+			"dynn_Lauret"
+			"dynn_Lebon"
+			"dynn_Lefebvre"
+			"dynn_Lestelle"
+			"dynn_Madjid"
+			"dynn_Mahier"
+			"dynn_Maillot"
+			"dynn_Mallet"
+			"dynn_Martin"
+			"dynn_Massoud"
+			"dynn_Mellon"
+			"dynn_Mounianpin"
+			"dynn_Mounissamy"
+			"dynn_Mourouguin"
+			"dynn_Moutin"
+			"dynn_Moutoussamy"
+			"dynn_Mulot"
+			"dynn_Murat"
+			"dynn_Mussard"
+			"dynn_Mussart"
+			"dynn_Nativel"
+			"dynn_Nguyen"
+			"dynn_Parvedy"
+			"dynn_Payet"
+			"dynn_Perianayagom"
+			"dynn_Perinedery"
+			"dynn_Picard"
+			"dynn_Picaud"
+			"dynn_Poinambalom"
+			"dynn_Pothin"
+			"dynn_Quetin"
+			"dynn_Raghoo"
+			"dynn_Ramalingum"
+			"dynn_Ramassamy"
+			"dynn_Ramsamy"
+			"dynn_Rivière"
+			"dynn_Robert"
+			"dynn_Rochefeuille"
+			"dynn_Rose"
+			"dynn_Roucoumany"
+			"dynn_Ruby"
+			"dynn_Rungassamy"
+			"dynn_Sababady"
+			"dynn_Sainte-Marie"
+			"dynn_Salembeau"
+			"dynn_Sambimanan"
+			"dynn_Serveaux"
+			"dynn_Sery"
+			"dynn_Sevy"
+			"dynn_Sirangom"
+			"dynn_Soupapoullé"
+			"dynn_Soupramanien"
+			"dynn_Tangatchy"
+			"dynn_Techer"
+			"dynn_Thionville"
+			"dynn_Thomassinm"
+			"dynn_Thévanin"
+			"dynn_Tullus"
+			"dynn_Turpin"
+			"dynn_Télésphort"
+			"dynn_Vaitilingom"
+			"dynn_Vedapagom"
+			"dynn_Verbart"
+			"dynn_Vinglassamy"
+			"dynn_Viramagnin"
+			"dynn_Viramalé"
+			"dynn_Virapoullé"
+			"dynn_Virassamy"
+			"dynn_Viraye"
+			"dynn_Vitry"
+			"dynn_Éthève"
+}
+		
+		male_names = {
+		Abdoulhadi Adnan Adrien Aimane Alain Alane Alex Alexandre Alexis Allan Amine Anas André Andréas Andy Anthony Arnaud Arthur
+		Basile Benjamin Benoit Bernard Brayan Bruno
+		Camille Chakir Claude Cyril Cédric
+		Damien Daniel David Dharmaradjee Dominique Didier Dimitri 
+		Edouard Elie Eliot Emmanuel Enzo Evane Élouan
+		Fabien Fabrice Farhane Francis Franck
+		Gabriel Gaston Gaétan Ghislain Gilbert Gilles Grégoire Grégory Guillaume Gwendal
+		Hamid Hamza Hicham Houzaifah Hugo
+		Idriss Imrhane Ismael 
+		Jackson Jacques Jason Jayanti Jayram Jean Jean-Bernard Jean-Claude Jean-Emmanuel Jean-Hugues Jean-Laurent Jean-Renée Jean-Régis Jordane Joseph Joël Judicaël Juliano Julien Jérome Jérémy
+		Karim Kasim Kichagane Kumaran 
+		Laurent Lenny Lorys Loïc Lucas Lucien Ludovic
+		Martin Marvin Matthias Maxime Maël Mickaël Mohammad Moïse Médéric
+		Nassim Nicolas Noah, Noé
+		Olivier Omar Othman Ousman 
+		Pascale Patrice Paul
+		Raphaël Rajeev Richard Ridwane Robert Rodolphe Roland Romain Rudy Régis Rémy
+		Samuel Sandjivi Sebastien Sofiane Sollajagane
+		Thibaut Thierry Théo Tristan
+		Ulysses
+		Victor Vidjay Vincent
+		Waliyyoullah William
+		Xavier
+		Yacoub Yann Yannis Yavann Yves Yves-Henri
+		Zayyan
+
+}
+		female_names = {
+		Aditee Adèle Agnès Ajanee Alimah Alison Amandine Anathalie Anaël Anaïs Ange Angélique Anjali Anna Anne-gaëlle Anésie Arlette Artémis Athéna Audrey Aycha Azimah Aïda,
+		Binda Béatrice Bérénice
+		Camille Capucine Catherine Charlène Chloé Chrystel Claire Coeur Coralie Coraline Cybille Céline
+		Deviah Djeya Dora Dorine Duesha Dylaine
+		Elia Elise Emma Emmanuelle Estelle Eugènie Eveline
+		Fabienne, Fatima Flora
+		Gaëlle Georgette Gwendoline Géraldine
+		Harmony Hazatha Huguette
+		Iris
+		Jade Jodie Josiane Joséphine Julia Julie Juliette Justine Jôdishwari
+		Krishna
+		Laura Laure Laurence Laurine Laëtitia Leslie Lilie Linda Lindsay Louanne Lydie
+		Magalie Manon Marianne, Marie, Marie-josée Marie-lyne Marie-léana Marie-rose Marina Marine Maël Maëlys Maëva Meileen Michele Morgane Murah Muriel Mélia Mélinda Mélodie
+		Nadège Naoline Nina Noa Nour
+		Océane Ophélie Oumadévi
+		Rachida Roselyne Rubie
+		Sabine Salomé Stella Stella
+		Thérèse
+		Vanina Vimala Virginie
+		Wendy
+		Yasmine Yolande
+		Zohra Zïa
+		émeline
+}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+}
+lusoafrican_group = {
+	graphical_cultures = {
+		south_indian_building_gfx
+		south_indian_group_coa_gfx
+		southindian_building_gfx
+		southindian_clothing_gfx
+		indian_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = "mercenary_company_" }
+		}
+	
+	Morisien = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Abbasakoor"
+			"dynn_Abdoolla"
+			"dynn_Ajmeree"
+			"dynn_Ameersaheb"
+			"dynn_Appadoo"
+			"dynn_Armoogum"
+			"dynn_Asrayah"
+			"dynn_Assamy"
+			"dynn_Aumjaud"
+			"dynn_Babajee"
+			"dynn_Bajan"
+			"dynn_Balgobin"
+			"dynn_Ballaram"
+			"dynn_Balluck"
+			"dynn_Beechook"
+			"dynn_Beedasy"
+			"dynn_Beeharry"
+			"dynn_Bhakha"
+			"dynn_Bheecarry"
+			"dynn_Bhicka"
+			"dynn_Bholah"
+			"dynn_Bhoyroo"
+			"dynn_Bhudhundee"
+			"dynn_Bhugaloo"
+			"dynn_Bissessur"
+			"dynn_Boojahwon"
+			"dynn_Boolkan"
+			"dynn_Budhoon"
+			"dynn_Budullah"
+			"dynn_Bundhoo"
+			"dynn_Busawah"
+			"dynn_Canhyee"
+			"dynn_Chartursing"
+			"dynn_Chatooree"
+			"dynn_Chelin"
+			"dynn_Chengalaram"
+			"dynn_Chundunsing"
+			"dynn_Chunnoo"
+			"dynn_Chuttoo"
+			"dynn_Clifford"
+			"dynn_Collendavelloo"
+			"dynn_Collet"
+			"dynn_Culcuttee"
+			"dynn_Dalais"
+			"dynn_Darbarree"
+			"dynn_Daulchand"
+			"dynn_Deeljore"
+			"dynn_Dewochund"
+			"dynn_Dhoorah"
+			"dynn_Domah"
+			"dynn_Doobaree"
+			"dynn_Dookhee"
+			"dynn_Ellahee"
+			"dynn_Fowdar"
+			"dynn_Gangaram"
+			"dynn_Geerdharry"
+			"dynn_Geeta"
+			"dynn_Ghoorahoo"
+			"dynn_Ghoorun"
+			"dynn_Gopee"
+			"dynn_Grajcar"
+			"dynn_Gungah"
+			"dynn_Hamza"
+			"dynn_Heeramun"
+			"dynn_Hemraz"
+			"dynn_Henri"
+			"dynn_Hossenny"
+			"dynn_Hurreeram"
+			"dynn_Hyacinte"
+			"dynn_Iqtidar"
+			“dynn_Jacqdom"
+			"dynn_Jagambrum"
+			"dynn_Jagoo"
+			"dynn_Jaunkeepersad"
+			"dynn_Jeeanah"
+			"dynn_Jeeanob"
+			"dynn_Jhaumal"
+			"dynn_Jootun"
+			"dynn_Joyseeree"
+			"dynn_Jugdawa"
+			"dynn_Kaleeram"
+			"dynn_Kamhye"
+			"dynn_Kayroollah"
+			"dynn_Khadooa"
+			"dynn_Khan"
+			"dynn_Khoodeesing"
+			"dynn_Khunnoo"
+			"dynn_Kinoo"
+			"dynn_Koonee"
+			"dynn_Kureembokus"
+			"dynn_Kutwaroo"
+			"dynn_Laiguille"
+			"dynn_Larose"
+			"dynn_Lebrun"
+			"dynn_Leemah"
+			"dynn_Luchmun"
+			"dynn_Madhay"
+			"dynn_Mahadawoo"
+			"dynn_Mahadoowa"
+			"dynn_Maharaj"
+			"dynn_Maudercacus"
+			"dynn_Maudhoo"
+			"dynn_Mauthoor"
+			"dynn_Megnath"
+			"dynn_Mirbel"
+			"dynn_Mittoo"
+			"dynn_Mohabeer"
+			"dynn_Moheeputth"
+			"dynn_Moolchand"
+			"dynn_Moonien"
+			"dynn_Moonsamy"
+			"dynn_Moosary"
+			"dynn_Mootoosamy"
+			"dynn_Mugon"
+			"dynn_Mundcoomar"
+			"dynn_Mungra"
+			"dynn_Munisami"
+			"dynn_Munusamy"
+			"dynn_Nabeebuccus"
+			"dynn_Nathooram"
+			"dynn_Nawoor"
+			"dynn_Nujurailly"
+			"dynn_Omarjee"
+			"dynn_Omrawoo"
+			"dynn_Padaruth"
+			"dynn_Patel"
+			"dynn_Pauvady"
+			"dynn_Pelletier"
+			"dynn_Poonoosamy"
+			"dynn_Raghbor"
+			"dynn_Raghoo"
+			"dynn_Rajanash"
+			"dynn_Ramachundra"
+			"dynn_Ramasy"
+			"dynn_Rambhojoo"
+			"dynn_Ramchurrun"
+			"dynn_Ramdaursingh"
+			"dynn_Ramdawar"
+			"dynn_Ramdhean"
+			"dynn_Ramjutton"
+			"dynn_Ramkelowan"
+			"dynn_Ramkhelawon"
+			"dynn_Ramnarain"
+			"dynn_Ramphul"
+			"dynn_Ramrachia"
+			"dynn_Ramsoondur"
+			"dynn_Ramsurrun"
+			"dynn_Ramtanon"
+			"dynn_Ramtohul"
+			"dynn_Ranoowah"
+			"dynn_Rawoo"
+			"dynn_Reshma"
+			"dynn_Rochecouste"
+			"dynn_Rughoo"
+			"dynn_Rughoobur"
+			"dynn_Rujbally"
+			"dynn_Runglall"
+			"dynn_Sandhaya"
+			"dynn_Sangahoopie"
+			"dynn_Sangar"
+			"dynn_Satourvera"
+			"dynn_Sawarath"
+			"dynn_Seebaluck"
+			"dynn_Seegoolam"
+			"dynn_Seemeeram"
+			"dynn_Seepargauth"
+			"dynn_Seewoobudul"
+			"dynn_Sewak"
+			"dynn_Sheoraj"
+			"dynn_Shivani"
+			"dynn_Sooknauth"
+			"dynn_Soomarah"
+			"dynn_Sooraj"
+			"dynn_Sumbal"
+			"dynn_Sunassee"
+			"dynn_Tagou"
+			"dynn_Tarsoo"
+			"dynn_Tataya"
+			"dynn_Teemill"
+			"dynn_Thaker"
+			"dynn_Thimmadu"
+			"dynn_Thomasoo"
+			"dynn_Tillousing"
+			"dynn_Valayoodum"
+			"dynn_Vencatachellum"
+			"dynn_Vencatasawmy"
+			"dynn_Venkatasami"
+			"dynn_Vishal"
+			"dynn_Vyapooree"
+			"dynn_Yadallee"
+			"dynn_de_Spéville"
+}
+		
+		male_names = {
+	Aartee Adarsh Ahad Ahmad Ajmal Akash Akhilesh Akram Ali Ameer Amiroudine Amit Amuratlal Amédée Andry AniketAnil Anju Anwar Archagar Arvin Ashik Ashish Ashok Ashraf Asraf Avinash
+	Bajrang Bashir Beelal
+	Callychurn Chiranjeev Clyde Curtis Deepak
+	Ehsaan Euphrosine
+	Fabrice Gilbert Goofran
+	Harish Hashveer Hussain Irfaan Ismael Ivan
+	Jairaj James Jayraj Jogesh Jonathan,
+	Kanand Kavin Keshav Khemraj Kiran Kivaraj Koosham Kumar Kushesh
+	Louis
+	Mahen Mahendra Michael,
+	Nagen Naresh Naveeta Nayat Nirmal Nissar Niveda
+	Octave,Oudesh,Oumesh,
+	Parmanand Pavan Prasad Prashant Pravesh Preetam Prince
+	Raj Rajen Rajesh Rajeshwar Rajkumar Rajnish Ramesh Randhir Rattan Ravi Ridwaan Rohan Ruben
+Saabir Sachin Sailesh Sanjay Sanjeet Sanjiv Sardar Satar Satish Sawan Shashi Shaun Shoghi Showkut Sooraj Sudh
+	Tariq Tawfiq Trilok,
+	Umesh Vashisht Vikash Vikram Vinay Vinod Viraj Virshwarnath Vishal
+	Yaasir Yadhav Yasir Yaswant Yoven Yuvraj Zahair Zeeshaan
+	Zulfeekar
+}
+		female_names = {
+	Aasha Adila Aditee Ameerah Anand Anaïs Aneshta Angel Anisah Anjali Anjanee Anjoo Annaruby Anousha Anshi Anusha Avista 
+	Brinda
+	Catherine Chandni Charlène Chitrasha Christiane
+	Darshitah Deena Devi Deviah Devianee Dhamika Dinasha
+	Emilie Eyleen 
+	Farah Farzana Feiza
+	Indira
+	Jennifer Jenny Jordana Juliette
+	Kamila Kirun Krisni
+	Lakshana Lakshmi Lakshmibai Lalisha Love
+	Madvi Manjaree Manju Marie-France Marie-Noelle Maya Menkah Minakshi
+	Nandinee Nashia Nashreen Natasha Nayyara Neetoo Nirekha Nirila Noorjahan
+	Odile
+	Paviola Philomene Praneel Praveena Priscilla
+	Rajcoomaree Reena Rekha Renoushah Reshma Rookminee Rouma Rukhsaar
+	Saberah Saguna Sandy Sangeetha Saniah Sanjana Savitri Seeta Sheila Shivani Sulakshna Sultana Sumaiyah Sunita
+	Tina
+	Usha
+	Varsha Varshini Vendana Vida Vidya Vijayta Vimalai
+	Youvena Zanisha
+}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = South Indian
 		}
 	}
 }
