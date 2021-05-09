@@ -866,7 +866,7 @@ lusoafrican_group = {
 	Karim Kee Kenny Kevin Kwang
 	Laurent Lenny Lorys Loïc Lucas Ludovic
 	Marcelin Matthias Maxime Maël
-	Nicolas Noé
+	Nicolas Norbert Noé
 	Olivier
 	Pascal Patrice Paul Philippe
 	Raymond Renaud Robert Romain
