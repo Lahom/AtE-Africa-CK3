@@ -212,11 +212,11 @@ lusoafrican_group = {
 
 lusoafrican_group = {
 	graphical_cultures = { #to be changed
-		african_building_gfx
-		central_african_group_coa_gfx
-		mena_building_gfx
-		african_clothing_gfx
-		sub_sahran_unit_gfx
+		mascarene_building_gfx
+		mascarene_group_coa_gfx
+		mascarene_building_gfx
+		mascarene_clothing_gfx
+		mascarene_unit_gfx
 	}
 
 	mercenary_names = {
@@ -438,11 +438,11 @@ lusoafrican_group = {
 }
 lusoafrican_group = {
 	graphical_cultures = {
-		south_indian_building_gfx
+		mascarene_building_gfx
 		south_indian_group_coa_gfx
-		southindian_building_gfx
-		southindian_clothing_gfx
-		indian_unit_gfx
+		mascarene_building_gfx
+		mascarene_clothing_gfx
+		mascarene_unit_gfx
 	}
 
 	mercenary_names = {
@@ -511,6 +511,7 @@ lusoafrican_group = {
 			"dynn_Doobaree"
 			"dynn_Dookhee"
 			"dynn_Ellahee"
+			"dynn_Fazoola"
 			"dynn_Fowdar"
 			"dynn_Gangaram"
 			"dynn_Geerdharry"
@@ -519,7 +520,9 @@ lusoafrican_group = {
 			"dynn_Ghoorun"
 			"dynn_Gopee"
 			"dynn_Grajcar"
+			"dynn_Gujadhur"
 			"dynn_Gungah"
+			"dynn_Gungaram"
 			"dynn_Hamza"
 			"dynn_Heeramun"
 			"dynn_Hemraz"
@@ -621,6 +624,7 @@ lusoafrican_group = {
 			"dynn_Satourvera"
 			"dynn_Sawarath"
 			"dynn_Seebaluck"
+			"dynn_Seeborun"
 			"dynn_Seegoolam"
 			"dynn_Seemeeram"
 			"dynn_Seepargauth"
@@ -712,6 +716,207 @@ Saabir Sachin Sailesh Sanjay Sanjeet Sanjiv Sardar Satar Satish Sawan Shashi Sha
 		
 		ethnicities = {
 			10 = South Indian
+		}
+	}
+}
+lusoafrican_group = {
+	graphical_cultures = {
+		mascarene_building_gfx
+		chinese_group_coa_gfx
+		mascarene_building_gfx
+		mascarene_clothing_gfx
+		chinese_unit_gfx
+	}
+
+	mercenary_names = {
+		{ name = "mercenary_company_" }
+	}
+
+	Sinoa = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Ah Cham"
+			"dynn_Ah_Ching"
+			"dynn_Ah_Choon"
+			"dynn_Ah_Fane"
+			"dynn_Ah_Hot"
+			"dynn_Ah_Kan"
+			"dynn_Ah_Kang"
+			"dynn_Ah_Kiam"
+			"dynn_Ah_Koon"
+			"dynn_Ah_Leung"
+			"dynn_Ah_Line"
+			"dynn_Ah_Ling"
+			"dynn_Ah_Peng"
+			"dynn_Ah_Pine"
+			"dynn_Ah_Quah"
+			"dynn_Ah_Seung"
+			"dynn_Ah_Tiane"
+			"dynn_Ah_Tsing"
+			"dynn_Ah_Wang"
+			"dynn_Ah_Yan"
+			"dynn_Ah_Yon"
+			"dynn_Ah_Yuen"
+			"dynn_Chan_Ton"
+			"dynn_Chane"
+			"dynn_Chane_Cho"
+			"dynn_Chane_Nam"
+			"dynn_Chane_See_Chu"
+			"dynn_Chane_Ting_Tang"
+			"dynn_Chen"
+			"dynn_Chen_Chao"
+			"dynn_Chen_Tak"
+			"dynn_Cheuk"
+			"dynn_Cheung"
+			"dynn_Chin_Yan"
+			"dynn_Chong_Ling"
+			"dynn_Chue_Kue"
+			"dynn_Chung"
+			"dynn_Chung_Lim"
+			"dynn_Fock_Chow_Tho"
+			"dynn_Fock_Yin_Cheung"
+			"dynn_Ham_Chou_Chong"
+			"dynn_Haw"
+			"dynn_Hoo"
+			"dynn_How"
+			"dynn_Jin"
+			"dynn_Khoy_Siong"
+			"dynn_Kiat"
+			"dynn_Kin_Liong"
+			"dynn_Kung"
+			"dynn_Kwok_Choon"
+			"dynn_Lai"
+			"dynn_Lao"
+			"dynn_Lam"
+			"dynn_Lan"
+			"dynn_Lan_Li_Ying"
+			"dynn_Law_Wai"
+			"dynn_Law_line"
+			"dynn_Leong
+			"dynn_Leung_Hot
+			"dynn_Li"
+			"dynn_Li_Kwong_Ken"
+			"dynn_Lim"
+			"dynn_Lin_Huang_Nin"
+			"dynn_Lo_King_Fung"
+			"dynn_Lo_Line_Mei"
+			"dynn_Loo_Chin_Moy"
+			"dynn_Ly_Thio_Fane"
+			"dynn_Ma_Mung"
+			"dynn_Mehong"
+			"dynn_Meng"
+			"dynn_Mong"
+			"dynn_Mong_Fane"
+			"dynn_Ng Cheng_Hin"
+			"dynn_Ng Tock_Mine"
+			"dynn_Nguyen"
+			"dynn_Piang_Song"
+			"dynn_Ran"
+			"dynn_Sam_Yon"
+			"dynn_Sew"
+			"dynn_Shan_Law"
+			"dynn_Sing_Fat"
+			"dynn_Tang_Pang"
+			"dynn_Tchue"
+			"dynn_Thiaw"
+			"dynn_Tsan_Chun"
+			"dynn_Tsang"
+			"dynn_Tsang_Man_Kin"
+			"dynn_Tseng"
+			"dynn_Tsong"
+			"dynn_Tsong_Chin_Chuen"
+			"dynn_Wai"
+			"dynn_Wan_Bok"
+			"dynn_Wan_Tang"
+			"dynn_Wong"
+			"dynn_Wong_Keng
+			"dynn_Wong_Moi"
+			"dynn_Woo_Shoo_Tong"
+			"dynn_Wu"
+			"dynn_Wu_Tien_Yen"
+			"dynn_Wu_Tiu_Wen"
+			"dynn_Yam_Nam"
+			"dynn_Yip_Tong"
+			"dynn_Yeung"
+			"dynn_Yew_Hin"
+			"dynn_Yong"
+			"dynn_Yu"
+			"dynn_Yu_Nam"
+			"dynn_Yu_Tin"
+			"dynn_Zhang"
+			"dynn_Zeng"
+}
+		
+		male_names = {
+	Ahime Alain Alex Alexander Alexandre Alexis Allan André Andréas Andy Antoine Arnaud Arthur
+	Bastien Benjamin Benoit Bruno
+	Christian Christophe Clark Clifford Curtis Cyrille Cédric
+	Damien Daniel Danny David Denis Didier Dimitri Dominique
+	Edouard Elie Eliott Emmanuel Eric Etienne Émeric
+	Gabriel Gaétan Georges Ghislain Gilbert Guillaume Gérard
+	Hubert Hugo
+	Ian
+	Jacques Jean Jean-Bernard Jean-Claude Jean-Emmanuel Jean-Hugues Jean-Laurent Jean-Paul Jimmy Joachim John Joe Jordane Joseph Joël Judicaël Julien Jérémie
+	Karim Kee Kenny Kevin Kwang
+	Laurent Lenny Lorys Loïc Lucas Ludovic
+	Marcelin Matthias Maxime Maël
+	Nicolas Noé
+	Olivier
+	Pascal Patrice Paul Philippe
+	Raymond Renaud Robert Romain
+	Samuel Steven Sébastien Stéphane
+	Thibault Thierry Théo
+	Ulysses Victor Vincent
+	Xavier
+	Yann Yannique Yves-Henri
+}
+		female_names = {
+	Agnès Aline Allison Amandine Anaël Anaïs Ange Angélique Anna Anne-Gaëlle Arlette Artémis Athéna Audrey Aïda
+	Béatrice Bérénice
+ 	Chloé Christine Claire Coeur Coralie Coraline Céline Dora
+	Edwige Eileen Elia Elise Estelle
+ 	Fabienne Flora
+	Gaëlle Georgette Ginette Gwendoline Géraldine
+	Harmony Honorine Huguette Hélène
+	Iris
+	Jade Jane Jennifer Jodie Juliette Justine
+	Kam,Karine
+	Laure Leslie Lilie Linda Lindsay Louanne Lydie
+	Manon Marcelle Margaret Marie Marie-Rose Marina Marine Mary Maël Maëva Meileen Melissa Michele Muriel Mélinda
+	Nadège Natacha Nicole Nina
+	Oanh Océane
+	Pauline Pierrette
+	Rachida Raymonde Rubie
+	Salomé Sharon Sherley Shirley Stéphanie
+	Tanya
+	Vanessa Valérie Virginie
+	Wendy
+	Émeline
+}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = Asian
 		}
 	}
 }
