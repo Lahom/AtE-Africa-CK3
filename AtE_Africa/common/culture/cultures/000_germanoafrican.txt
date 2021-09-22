@@ -1,0 +1,331 @@
+﻿germanoafrican_group = {
+	graphical_cultures = {
+		african_building_gfx
+		central_african_group_coa_gfx
+		mena_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	
+	sudwester = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Ahrens"
+			"dynn_Aschenborn"
+			"dynn_Baumann"
+			"dynn_Baumgartner"
+			"dynn_Bause"
+			"dynn_Bendix"
+			"dynn_Bock"
+			"dynn_Brockerhoff"
+			"dynn_Dahlmann"
+			"dynn_Dierks"
+			"dynn_Domke"
+			"dynn_Drechsler"
+			"dynn_Dreyer"
+			"dynn_Drobisch"
+			"dynn_Drotsky"
+			"dynn_Dunaiski"
+			"dynn_Dziobek"
+			"dynn_Feddersen"
+			"dynn_Fischer"
+			"dynn_Fleidl"
+			"dynn_Freyer"
+			"dynn_Fritzsche
+			"dynn_Ebner"
+			"dynn_Eichhoff"
+			"dynn_Goerke"
+			"dynn_Gramowsky"
+			"dynn_Gressmann"
+			"dynn_H_a_uml_hner"
+			"dynn_Haase"
+			"dynn_Hecht"
+			"dynn_Henrichsen"
+			"dynn_Herrigel"
+			"dynn_Hoffmann"
+			"dynn_Hummel"
+			"dynn_Husselmann"
+			"dynn_Jaeger"
+			"dynn_Jentsch"
+			"dynn_K_o_uml_rner"
+			"dynn_K_o_uml_tz"
+			"dynn_K_u_uml_hne"
+			"dynn_K_u_uml_lz"
+			"dynn_Kolberg"
+			"dynn_Kraatz"
+			"dynn_Krabbenh_o_uml_ft"
+			"dynn_Kraetke"
+			"dynn_Kulenkampff"
+			"dynn_Kunzmann"
+			"dynn_Lewin"
+			"dynn_Lilienthal"
+			"dynn_Lindemeier"
+			"dynn_Lubowski"
+			"dynn_Moser"
+			"dynn_Ochs"
+			"dynn_Ohlenschlager"
+			"dynn_Oppermann"
+			"dynn_Pupkewitz"
+			"dynn_Voigts"
+			"dynn_Rahn"
+			"dynn_Rothkegel"
+			"dynn_Rumpf"
+			"dynn_Rust"
+			"dynn_Rutz"
+			"dynn_Sack"
+			"dynn_Sander"
+			"dynn_Schad"
+			"dynn_Schenck"
+			"dynn_Schimming"
+			"dynn_Schlettwein"
+			"dynn_Schonecke"
+			"dynn_Schr_o_uml_der"
+			"dynn_Schuckwerder"
+			"dynn_Schulz"
+			"dynn_Schwietering"
+			"dynn_Seidler"
+			"dynn_Siedentopf"
+			"dynn_Sperling"
+			"dynn_Staby"
+			"dynn_Starke"
+			"dynn_Stauch"
+			"dynn_Steffen"
+			"dynn_Steinmetz"
+			"dynn_Strauss"
+			"dynn_Sydow"
+			"dynn_T_o_uml_temeyer"
+			"dynn_Thesen"
+			"dynn_Thiemann"
+			"dynn_Trede"
+			"dynn_Wecke"
+			"dynn_Windisch"
+			"dynn_Wlotzka"
+			"dynn_Woermann"
+			"dynn_Wohler"
+			"dynn_Wucher"
+			"dynn_Wurm"
+			"dynn_Z_o_uml_llner"
+			"dynn_Zelewski"
+			"dynn_Zeller"
+			"dynn_von_Dewitz"
+			"dynn_von_Finckenstein"
+			"dynn_von_Francois"
+			"dynn_von_Hase"
+			"dynn_von_Hundelshausen"
+			"dynn_von_Leipzig"
+			"dynn_von_Meck"
+			"dynn_von_Oertzen"
+			"dynn_von_Prittwitz"
+			"dynn_von_Schumann"
+			"dynn_von_Stryk"
+			"dynn_von_Wielligh"
+			"dynn_von_Wietersheim"
+		}
+		
+		male_names = {
+			Adolf Albrecht Alexander Alfons Alfred Aloys Andreas Anton Arnold August Axel
+			Berengar Bernhard Bj_o_uml_rn Bogislaw Burkhard
+			Casimir Casper Christian Clemens Conrad Cornelius
+			Daniel David Detlef Dieter
+			Eberhard Eckhart Edgar Eduard Ehrenfried Emil Erich Ernst Erwin
+			Fabian Ferdinand Friedhelm Friedrich
+			G_u_uml_nther Gebhard Gerhard Giselher Goswin Gotthelf Gottlieb Gustav
+			Hanno Hans Hans-Erich Hans-Ulrich Harald Hartmut Heinrich Helmuth Henning Herbert Hermann Horst Hubert Hugo
+			Immanuel Isaak Isenbard
+			J_o_uml_rg Jakob Jesko Joachim Johann Josef
+			Klaus Kristof Kurt
+			Leberecht Leonhard Ludwig Lukas
+			Manfred Marius Markus Martin Mathias Michael Moritz
+			Norbert
+			Oskar Otto
+			Paul Peter
+			R_u_uml_diger Raimar Reinhard Reinhold Richard Robert Rudolf
+			Samuel Sigfreid Stanislaus Stefan Sylvester
+			Theodor Theopold Torsten
+			Ulrich Uwe
+			Viktor Vitus
+			Walther Wenzel Werner Wilbard Wilfried Wilhelm Wilko Winrich Woldemar Wolfgang Wolfram
+		}
+		female_names = {
+			Adelheid Albertina Angelika Anja
+			Brigitte
+			Charlotte Christine Clara
+			Danielle
+			Elizabeth Elsie Esther
+			Gertrude
+			Hedwig Helga Henriette Hermine Hildegard
+			Ida Ingeborg Ingrid Irene
+			Johanna Josephine
+			Katharina Katja Klaudia
+			Luise
+			Margaret Maria Martha Matilde
+			Nicole Nina Nora
+			Pauline Petra
+			Roswitha
+			Sabine Sandra Sigrid Simone Sophie Sylvia
+			Ulrike
+			Veronika
+			Waltraut Wilhelmina
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+
+	afrikaner = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Badenhorst"
+			"dynn_Bester"
+			"dynn_Botma"
+			"dynn_Calitz"
+			"dynn_Coetzee"
+			"dynn_Dreyer"
+			"dynn_Langenhoven"
+			"dynn_Liebenberg"
+			"dynn_Losper"
+			"dynn_Prinsloo"
+			"dynn_Retief"
+			"dynn_Scholtz"
+			"dynn_Spies"
+			"dynn_Stoffberg"
+			"dynn_Volschenk"
+			"dynn_Yssel"
+			"dynn_Zandberg"
+			"dynn_van_Aarde"
+			"dynn_van_Staden"
+			"dynn_van_der_Merwe"
+		}
+		
+		male_names = {
+			Cornelius
+			Ewaldus
+			Hermanus
+			Jacobus
+			Paulus
+		}
+		female_names = {
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+
+	griqua = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Adonis"
+			"dynn_Afrikaner"
+			"dynn_Barends"
+			"dynn_Beukes"
+			"dynn_Bezuidenhout"
+			"dynn_Bock"
+			"dynn_Britz"
+			"dynn_Cockrell"
+			"dynn_Diergaardt"
+			"dynn_Engelbrecht"
+			"dynn_Fritz"
+			"dynn_Goeieman"
+			"dynn_Haarhoff"
+			"dynn_Horn"
+			"dynn_Hough"
+			"dynn_Katz"
+			"dynn_Kok"
+			"dynn_Kotz_e_act_"
+			"dynn_Lambert"
+			"dynn_Le_Fleur"
+			"dynn_Lucas"
+			"dynn_McNab"
+			"dynn_Mouton"
+			"dynn_Sauls"
+			"dynn_Swartbooi"
+			"dynn_Waterboer"
+			"dynn_Witbooi"
+			"dynn_de_Klerk"
+			"dynn_de_Villiers"
+			"dynn_van_Wyk"
+		}
+		
+		male_names = {
+			Abraham Alvin
+			Cornelius
+			David
+			Paulus
+			Titus
+		}
+		female_names = {
+			Sylvia
+		}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}
+}
