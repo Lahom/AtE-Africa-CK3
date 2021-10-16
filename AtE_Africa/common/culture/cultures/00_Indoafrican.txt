@@ -17,33 +17,222 @@ Indoafrican_group = {
 		}
 		
 		dynasty_names = {
-			"dynn_Aruppan"
-			"dynn_Chetty"
-			"dynn_Budram"
-			"dynn_Bissumbhur"
-			"dynn_Durgapersad"
-			"dynn_Maharaj"
-			"dynn_Mohanlal"
-			"dynn_Naidoo"
-			"dynn_Shanmugam"
-			"dynn_Sewraj"
-			"dynn_Velayutham"
+		"dynn_Afzal"
+		"dynn_Ajoon"
+		"dynn_Ajudhiya"
+		"dynn_Akram"
+		"dynn_Ali"
+		"dynn_Appalsamy"
+		"dynn_Arnajalum"
+		"dynn_Arumugam"
+		"dynn_Balram"
+		"dynn_Beharie"
+		"dynn_Belama"
+		"dynn_Bharati"
+		"dynn_Bhojairam"
+		"dynn_Bhondu"
+		"dynn_Bhooli"
+		"dynn_Bhoonpersha"
+		"dynn_Birbal"
+		"dynn_Bisnath"
+		"dynn_Bithna"
+		"dynn_Chamoli"
+		"dynn_Chengiah"
+		"dynn_Chitarkhot"
+		"dynn_Chutterpaul"
+		"dynn_Dawood"
+		"dynn_Dayanand"
+		"dynn_Dayanund"
+		"dynn_Deoraj"
+		"dynn_Desai"
+		"dynn_Dhaver"
+		"dynn_Dubree"
+		"dynn_Durbal"
+		"dynn_Gajraj"
+		"dynn_Gondal"
+		"dynn_Goolam"
+		"dynn_Govender"
+		"dynn_Govindasamy"
+		"dynn_Hargoon"
+		"dynn_Haribhai"
+		"dynn_Harichand"
+		"dynn_Hariparsad"
+		"dynn_Haripesadh"
+		"dynn_Heralal"
+		"dynn_Hossain"
+		"dynn_Hurrisunker"
+		"dynn_Inder"
+		"dynn_Ishwarlal"
+		"dynn_Jaganath"
+		"dynn_Jankhi"
+		"dynn_Jewan"
+		"dynn_Jugarnath"
+		"dynn_Juggan"
+		"dynn_Jugmohan"
+		"dynn_Jugnanan"
+		"dynn_Kajee"
+		"dynn_Kalam"
+		"dynn_Kalicharan"
+		"dynn_Kallideen"
+		"dynn_Kassim"
+		"dynn_Khalid"
+		"dynn_Khan"
+		"dynn_Kubehka"
+		"dynn_Kunju"
+		"dynn_Kuppusamy"
+		"dynn_Lalbahadur"
+		"dynn_Laljeeth"
+		"dynn_Lalla"
+		"dynn_Latchoo"
+		"dynn_Madaray"
+		"dynn_Maghoo"
+		"dynn_Mahabeer"
+		"dynn_Mahadeo"
+		"dynn_Mahudeo"
+		"dynn_Makhan"
+		"dynn_Makka"
+		"dynn_Mangan"
+		"dynn_Maniram"
+		"dynn_Manisunker"
+		"dynn_Manzoor"
+		"dynn_Matabadal"
+		"dynn_Mathuraparsad"
+		"dynn_Mohamed"
+		"dynn_Mohan"
+		"dynn_Moodley"
+		"dynn_Mooni"
+		"dynn_Moonsamy"
+		"dynn_Naicker"
+		"dynn_Naidoo"
+		"dynn_Naidu"
+		"dynn_Naik"
+		"dynn_Nair"
+		"dynn_Nandkoomar"
+		"dynn_Nariansamy"
+		"dynn_Nehal"
+		"dynn_Norodien"
+		"dynn_Nowbath"
+		"dynn_Nunthkumar"
+		"dynn_Omiksah"
+		"dynn_Aruppan"
+		"dynn_Chetty"
+		"dynn_Budram"
+		"dynn_Bissumbhur"
+		"dynn_Durgapersad"
+		"dynn_Maharaj"
+		"dynn_Mohanlal"
+		"dynn_Naidoo"
+		"dynn_Shanmugam"
+		"dynn_Sewraj"
+		"dynn_Velayutham"
+		"dynn_Owaisi"
+		"dynn_Padayachi"
+		"dynn_Panday"
+		"dynn_Patel"
+		"dynn_Phooranbagath"
+		"dynn_Pillay"
+		"dynn_Poogavanum"
+		"dynn_Pooran"
+		"dynn_Poorun"
+		"dynn_Pravi"
+		"dynn_Premlal"
+		"dynn_Raghoo"
+		"dynn_Rajhununan"
+		"dynn_Rajkaran"
+		"dynn_Rajkumar"
+		"dynn_Rajlal"
+		"dynn_Rajpal"
+		"dynn_Raman"
+		"dynn_Ramautar"
+		"dynn_Rambharose"
+		"dynn_Ramdayal"
+		"dynn_Ramdever"
+		"dynn_Ramdhari"
+		"dynn_Ramdhas"
+		"dynn_Ramdhin"
+		"dynn_Ramiah"
+		"dynn_Ramlahl"
+		"dynn_Ramlugan"
+		"dynn_Rampasath"
+		"dynn_Ramphal"
+		"dynn_Rampursad"
+		"dynn_Ramsakkhan"
+		"dynn_Ramsamooj"
+		"dynn_Ramsaroop"
+		"dynn_Ramsubawon"
+		"dynn_Ramtahal"
+		"dynn_Reddy"
+		"dynn_Rooplal"
+		"dynn_Rughbeer"
+		"dynn_Salik"
+		"dynn_Sarjoo"
+		"dynn_Sarugaser"
+		"dynn_Semongal"
+		"dynn_Serren"
+		"dynn_Sewdayal"
+		"dynn_Sewnunnen"
+		"dynn_Sewpersadh"
+		"dynn_Sewsancaran"
+		"dynn_Shamim"
+		"dynn_Shewshanker"
+		"dynn_Sigaban"
+		"dynn_Sigaban"
+		"dynn_Singh"
+		"dynn_Somaroo"
+		"dynn_Soobramoney"
+		"dynn_Sookhayee"
+		"dynn_Soonderjee"
+		"dynn_Surjudeen"
+		"dynn_Tayob"
+		"dynn_Tontpal"
+		"dynn_Vardan"
+		"dynn_Veerabuthroo"
+}
+		male_names = {
+		Abdurahman Abhay Abu Adrian Akash Akshaar Akshay Aldon Ali Aman Amish Anand Ashik Ashir Ashish Ashley Ashtir Athish Avesh Avikar Avinash Avishkar 
+		Bilal Branden
+		Cameron
+		Deepak Delowar Deshen Devon Dilshad Diren Donovan
+		Ebrahim Erushlyn
+		Fakhri Fakir Fazlul
+		Haroon Hiresh Hossin Hurriram
+		Ishkar Islam Ismail
+		Jashwin Jasveer Jitesh Jonathan
+		Kader Karshen Keagan Kedharan Kershan Kimal Kiveshan Kumar Kyle
+		Mahesh Marvin Melvan Minesh Mohammad
+		Nabeel Nadeem Nashil Nasir Neilen Nevlen Nikesh Nirvash Nishaan Nivesh
+		Prabagaran Prenesh Preshanthan Presley Prinesh
+		Raheel Rajesh Rajhan Rajiv Rashmie Ravi Rayner Resham Reshlan Reyon Rishal Rivaash Riyad Robin Rohil Rosh Roshan Roshani Rowan
+		Saabir Saddam Saheer Saiyal Sam Sameeg Samir Samish Sanesh Sanjay Sasheel Sashen Sayed Serfen Shahid Shahil Shahir Shamal Shane Shaun Shaylen Shilton Shrivaan Shuveer Sohum Stanton Sudhir Sudir Sumesh Sundesh Suraj Suveer Suvyn
+		Tashan Tashil Tashriq Thivar Trishna Tyran
+		Udane Udien Umesh Uvishik
+		Varish Veekesh Viknasen Vinay
+		Winston
+		Yashay Yashvir Yeshivan Yooveshan Yudi Yudveer Yushil Yusuf
+		Zakir Zishan Ziyad
 
 		}
-		
-		male_names = {
-		Adrian Ashish
-		Branden
-		Shilton Stanton
-		Rayner Rowan
-		}
 		female_names = {
-		Alicia
-		Elizabeth
-		Kerina
-		Nadira
-		Shanti
-		Vanita
+		Aarthi Akashnie Aldrisha Alicia Alisha Amira Amishka Anmol Ann Ashira Ashmita Ashwaria Astika Astraya Avara Avisha
+		Belinda Bhavana Bianca
+		Cellena Christine
+		Desiree Desothini Diantha
+		Elizabeth Emeriska
+		Fatima Fazila Ferrisha
+		Haleema Hazelin Irisha
+		Jadeen Janet Jerusha Jezal Joy Justina
+		Kaelin Kaliyah Karishma Kashka Kayu Kerina Kersha Kerusha Keshika Kimera Koshil
+		Latavia Leena
+		Maan Mariam Maya Merissa Michelle
+		Nadira Nayistha Nelisa Nerisha Nirasha Nishika Noleen
+		Omiksha
+		Prasha Pregashni Prinusha
+		Rakhi Ramini Rashina Reema Renisha Roshini Saihisha Samiha Samira Seijal Shania Shanti Sharika Sherize Shirdisha Simisha Sunaina Sunita Swasti
+		Tahiyya Tamera Tiara Trileesha
+		Una Upashna Uraisha
+		Vanessa Vanita Veneshrie Vidarshana Virasha Vishanta
+		Yajhna Yasheena Yastra Yoshika Yureesha Yuthika
+		Zaida Zeenath
 }
 		
 		dynasty_of_location_prefix = "dynnp_"
@@ -62,6 +251,6 @@ Indoafrican_group = {
 		mother_name_chance = 0
 		
 		ethnicities = {
-			10 = african
+			10 = indian
 		}
 	}

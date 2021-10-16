@@ -673,8 +673,8 @@ lusoafrican_group = {
 Saabir Sachin Sailesh Sanjay Sanjeet Sanjiv Sardar Satar Satish Sawan Shashi Shaun Shoghi Showkut Sooraj Sudh
 	Tariq Tawfiq Trilok,
 	Umesh Vashisht Vikash Vikram Vinay Vinod Viraj Virshwarnath Vishal
-	Yaasir Yadhav Yasir Yaswant Yoven Yuvraj Zahair Zeeshaan
-	Zulfeekar
+	Yaasir Yadhav Yasir Yaswant Yoven Yuvraj 
+	Zahair Zeeshaan Zulfeekar
 }
 		female_names = {
 	Aasha Adila Aditee Ameerah Anand Anaïs Aneshta Angel Anisah Anjali Anjanee Anjoo Annaruby Anousha Anshi Anusha Avista 
@@ -696,7 +696,8 @@ Saabir Sachin Sailesh Sanjay Sanjeet Sanjiv Sardar Satar Satish Sawan Shashi Sha
 	Tina
 	Usha
 	Varsha Varshini Vendana Vida Vidya Vijayta Vimalai
-	Youvena Zanisha
+	Youvena 
+	Zanisha
 }
 		
 		dynasty_of_location_prefix = "dynnp_"
