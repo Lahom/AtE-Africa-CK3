@@ -1,0 +1,67 @@
+Indoafrican_group = {
+	graphical_cultures = {
+		african_building_gfx
+		central_african_group_coa_gfx
+		mena_building_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+
+	
+	Natali = {
+		
+		color = {  }
+		
+		cadet_dynasty_names = {
+			"dynn_"
+		}
+		
+		dynasty_names = {
+			"dynn_Aruppan"
+			"dynn_Chetty"
+			"dynn_Budram"
+			"dynn_Bissumbhur"
+			"dynn_Durgapersad"
+			"dynn_Maharaj"
+			"dynn_Mohanlal"
+			"dynn_Naidoo"
+			"dynn_Shanmugam"
+			"dynn_Sewraj"
+			"dynn_Velayutham"
+
+		}
+		
+		male_names = {
+		Adrian Ashish
+		Branden
+		Shilton Stanton
+		Rayner Rowan
+		}
+		female_names = {
+		Alicia
+		Elizabeth
+		Kerina
+		Nadira
+		Shanti
+		Vanita
+}
+		
+		dynasty_of_location_prefix = "dynnp_"
+		
+		patronym_suffix_male = "dynnpat_suf_"
+		patronym_suffix_female = "dynnpat_suf_"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		ethnicities = {
+			10 = african
+		}
+	}

@@ -1,4 +1,4 @@
-﻿germanoafrican_group = {
+germanoafrican_group = {
 	graphical_cultures = {
 		african_building_gfx
 		central_african_group_coa_gfx
@@ -204,37 +204,83 @@
 		}
 		
 		dynasty_names = {
+			"dynn_Amptelik"
 			"dynn_Badenhorst"
 			"dynn_Bester"
+			dynn_Bezuidenhout"
 			"dynn_Botma"
+			"dynn_Cloete"
+			"dynn_de_Bruyn"
+			"dynn_du_Plessis
 			"dynn_Calitz"
 			"dynn_Coetzee"
 			"dynn_Dreyer"
+			"dynn_Griessel"
+			"dynn_Kotzé"
+			"dynn_Koppie"
 			"dynn_Langenhoven"
+			"dynn_Le_Grange
 			"dynn_Liebenberg"
 			"dynn_Losper"
+			"dynn_Meyring"
+			"dynn_Oosthuizen"
+			"dynn_Pretorius"
 			"dynn_Prinsloo"
 			"dynn_Retief"
+			"dynn_Roos"
+			"dynn_Roussouw
 			"dynn_Scholtz"
 			"dynn_Spies"
+			"dynn_Steenkamp"
 			"dynn_Stoffberg"
+			dynn_Vanlill"
+			"dynn_Venter"
+			"dynn_Viljoen"
+			"dynn_Visser"
 			"dynn_Volschenk"
+			"dynn_Vorster"
+			"dynn_Wolfaardt
 			"dynn_Yssel"
+			"dynn_Ysselsteyn"
 			"dynn_Zandberg"
 			"dynn_van_Aarde"
+			"dynn_van_Aswegen"
+			"dynn_van_Deventer
+			"dynn_van_Heerden"
+			"dynn_van_Rensburg"
+			"dynn_van_Schalkwyk"
 			"dynn_van_Staden"
 			"dynn_van_der_Merwe"
 		}
 		
 		male_names = {
-			Cornelius
-			Ewaldus
-			Hermanus
-			Jacobus
+			Altus
+			Bernard
+			Christiaan Christo Cornelius
+			Daniël
+			Frederik
+			Estian Ewaldus
+			Gherardus
+			Hansie Hermanus
+			Jacobus Janus Johan
+			Kobus
+			Lodewikus Luan
+			Maghiel
+			Marnus
 			Paulus
 		}
 		female_names = {
-			
+			Amoré Anine Anja Ankia Annaleen 
+			Belia Bernadette
+			Celest Charnay Charnelle Cherelee
+			Eulene Elizna
+			Hannerie
+			Jana Jimaine
+			Karin Katrine
+			Lize Louise
+			Marietjie
+			Rene Riané
+			Yvonne
 		}
 		
 		dynasty_of_location_prefix = "dynnp_"
