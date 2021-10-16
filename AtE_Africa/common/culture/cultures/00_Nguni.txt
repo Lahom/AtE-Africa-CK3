@@ -1,0 +1,2 @@
+ Include Xhosas/Zulus/Swazi/Ndhebeles etc.
+If you want to include more groups, change file to Southeastern_Bantu or Southern_Bantu
